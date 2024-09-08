@@ -3,7 +3,7 @@
     "path": "C:/GitHub/bridgerpf/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "4234838374",
+    "hash": "2889435457",
     "contents": "",
     "dirty": false,
     "created": 1725751581458.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "34,19",
-        "scrollLine": "28"
+        "cursorPosition": "0,41",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1725753220,
+    "lastKnownWriteTime": 1725755152,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1725753221000,
+    "last_content_update": 1725755152159,
     "read_only": false,
     "read_only_alternatives": []
 }
