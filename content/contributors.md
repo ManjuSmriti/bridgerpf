@@ -1,8 +1,8 @@
 ---
 description: Thank you to all the contributors!
-draft: false
+draft: true
 layout: standard
-show_title_as_headline: true
+show_title_as_headline: false
 title: Contributors
 ---
 
