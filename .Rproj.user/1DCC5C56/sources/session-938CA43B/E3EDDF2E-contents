@@ -1,0 +1,18 @@
+---
+action_label: Read More &rarr;
+action_link: /about
+action_type: text
+description: The BRIDGE - Research and Policy Foundation is a nonprofit organization dedicated to transforming scientific research into impactful policies that drive societal progress. With a presence in the United States and India, BRIDGE aims to operate at the intersection of academia, industry, and government to address critical global challenges and pioneer new theories and paradigms. By fostering collaboration and innovation, BRIDGE aims to be a global leader in uniting research and policy to catalyze meaningful societal change.
+image_left: true
+<!--images:
+ - img/revoir.jpg -->
+show_action_link: true
+show_social_links: true
+subtitle: Research for Impact
+text_align_left: true
+title: BRIDGE - RPF
+type: home
+---
+
+** index doesn't contain a body, just front matter above.
+See index.html in the layouts folder **
