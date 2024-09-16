@@ -30,8 +30,8 @@ enableEmoji = true
 [params]
   orgName = "BRIDGE - RPF"
   orgLocal = ""
-  description = "Political Thought, Action, and Practice | Political and Economic Imagination for Future Societies | Public Policy and Governance | Climate Resilience and Disaster Management| Environmental Justice and Community Empowerment"
-  favicon = "/img/favicon.ico"
+  description = "Political Thought, Action, and Practice || Political and Economic Imagination for Future Societies | Public Policy and Governance | Climate Resilience and Disaster Management| Environmental Justice and Community Empowerment"
+  #favicon = "/img/favicon.ico"
   logo = "/img/logo.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -113,11 +113,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.instagram.com/manju_smriti/"
   [[params.social]]
       icon      = "x-twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://x.com/09smriti"
   [[params.social]]
       icon      = "impactstory" # icon name without the 'fa-'
       icon_pack = "ai"
